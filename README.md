@@ -15,8 +15,8 @@
 
 <h2>Membros do grupo</h2>
 
-<p>Gabriel Farias (APRESENTADOR)</p>
-<p>Pedro Pruvinelli (APRESENTADOR) </p>
+<p>Gabriel Farias (Apresentador)</p>
+<p>Pedro Pruvinelli (Apresentador) </p>
 <p>Lucas Oliveira (Apresentador)</p>
 <p>Leonardo Grübel (Fez o read me) </p>
 <p>João Cidade (Fez o python) </p>
