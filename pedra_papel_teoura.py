@@ -1,7 +1,9 @@
 import random
 
+
 def escolha_maquina():
     return random.randint(1, 5)
+
 
 def escolha_player():
     while True:
@@ -13,7 +15,7 @@ def escolha_player():
                 print("Escolha inválida. Tente novamente.")
         except ValueError:
             print("Entrada inválida. Por favor, insira um número válido.")
-
+# Escolha player e verifica se está correta ou não 
 def verificar_resultado(escolha1, escolha2):
     if escolha1 == 1 and (escolha2 == 3 or escolha2 == 5):
         return True
@@ -26,6 +28,7 @@ def verificar_resultado(escolha1, escolha2):
     if escolha1 == 5 and (escolha2 == 4 or escolha2 == 3):
         return True
     return False
+#Aqui é o verificador, para ver se o jogador ganhou ou não
 
 def jogar():
     while True:
@@ -39,5 +42,5 @@ def jogar():
         else:
             print('Você errou, tente novamente.')
             print('A escolha certa era', escolha1)
-
+#Printa se tá correto ou não
 jogar()
