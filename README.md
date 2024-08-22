@@ -6,3 +6,5 @@
 <p>A tesoura decapita o lagarto e corta o papel<p>
 <p>O spock quebra a tesoura e desintegra a pedra<p>
 <p>O lagarto envenena o spock e come o papel<p>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSekemLfvc9yan7gpPc3bQTVxXFEFikVjpXrQ&s">
