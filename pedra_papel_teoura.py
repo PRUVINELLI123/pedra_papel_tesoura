@@ -1,6 +1,5 @@
 import random
 
-
 def escolha_maquina():
     return random.randint(1, 5)
 
@@ -28,8 +27,7 @@ def verificar_resultado(escolha1, escolha2):
     if escolha1 == 5 and (escolha2 == 4 or escolha2 == 3):
         return True
     return False
-#Aqui é o verificador, para ver se o jogador ganhou ou não
-
+#Aqui é o verificador, para ver se o jogador ganhou ou n
 def jogar():
     while True:
         escolha1 = escolha_maquina()
